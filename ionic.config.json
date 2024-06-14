@@ -1,0 +1,7 @@
+{
+  "name": "type-orm-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
